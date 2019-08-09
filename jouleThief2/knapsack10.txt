@@ -1,0 +1,17 @@
+Dynamic Programming Result:
+4
+49
+490
+9 181 22
+4 99 8
+3 123 12
+2 87 7
+
+Refined Dynamic Programming Result:
+4
+49
+490
+9 181 22
+4 99 8
+3 123 12
+2 87 7
